@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img src="https://raw.githubusercontent.com/abodi99/abodi99/output/snake.svg" alt="Snake animation" />
 
 ![](https://komarev.com/ghpvc/?username=Eyadho)
 
